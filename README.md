@@ -5,3 +5,8 @@ Weather Fetcher is a React application that allows users to retrieve real-time w
 
 [Demo](https://accurateweathertoday.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Weather-Fetcher.git)
 
+### Interactive Password Generator using React
+
+Check out the interactive password generator built with React! You can customize the length, include numbers, and special characters, and easily copy the generated password to your clipboard.
+
+[Demo](https://interactive-password-generator.vercel.app/) &emsp; [Source Code](https://github.com/SharathM18/Interactive-Password-Generator.git)
