@@ -9,6 +9,14 @@
  [Demo](https://contact-hub-sharath.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/ContactHub)
 
 
+### Task-Tracker Application
+
+A Task Tracker application was developed using React. It features three columns: ToDo, Doing, and Done, to visually organize tasks based on their status. Users can easily add, update, and delete tasks and move them across columns as they progress, providing a clear and intuitive overview of task management. The app also implements offline fonts for faster loading and consistent typography. Additionally, it leverages local storage to save task data in the browser.
+
+ [Demo](https://task-tracker-sharathm.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Task-Tracker.git)
+
+
+
 ### Weather Fetcher: Real-Time City Weather Data
 
 Weather Fetcher is a React application that allows users to retrieve real-time weather data for any city. By entering a city name, users can get up-to-date information about the current weather conditions, including temperature, weather condition, wind speed, humidity, and more.
